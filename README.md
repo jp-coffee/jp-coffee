@@ -14,6 +14,37 @@
 </p>
 <!-- HERO -->
 
+<br />
+
+<!-- SPOTIFY -->
+
+## 🎧 Currently Listening To
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404)
+
+<!-- SPOTIFY -->
+
+<br />
+
+<!-- STREAK STATS-->
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jp-coffee&count_private=true&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<!-- STREAK STATS-->
+
+<br />
+
+<!-- MY GITHUB STATS -->
+
+## 📈 My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-coffee&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/jp-coffee)
+
+<!-- MY GITHUB STATS -->
+
+<br />
+
 <!-- MY FAVORITE TOOLS -->
 ## 🛠️ My Tools
 
@@ -79,6 +110,7 @@
 ![Deno](https://img.shields.io/badge/-Deno-000000?logo=Deno&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
@@ -86,27 +118,18 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
 ![PyScript](https://img.shields.io/badge/-PyScript-3776AB?logo=Python&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=Shopify&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=Swift&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=React&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black)
+![PocketBase](https://img.shields.io/badge/-PocketBase-FFCA28?logo=Firebase&logoColor=black)
+![Threejs](https://img.shields.io/badge/-Threejs-000000?logo=Three.js&logoColor=white)
 
 <!-- TOOLS I'M LEARNING-->
-
-<br />
-
-<!-- SPOTIFY -->
-
-## 🎧 Currently Listening To
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404)
-
-<!-- SPOTIFY -->
-
-<br />
-
-<!-- STREAK STATS-->
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jp-coffee&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<!-- STREAK STATS-->
 
 <br />
 
@@ -117,13 +140,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=windup-app&repo=WindUp-CLI&theme=radical&hide_border=true)](https://github.com/windup-app/WindUp-CLI)
 
 <!-- MY OPEN SOURCE -->
-
-<br />
-
-<!-- MY GITHUB STATS -->
-
-## 📈 My GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-coffee&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/jp-coffee)
-
-<!-- MY GITHUB STATS -->
