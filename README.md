@@ -16,36 +16,18 @@
 
 <br />
 
-<!-- SPOTIFY -->
-
-## 🎧 Currently Listening To
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404)
-
-<!-- SPOTIFY -->
-
-<br />
-
-<!-- STREAK STATS-->
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jp-coffee&count_private=true&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 <!-- STREAK STATS-->
 
-<br />
+| 🔥 Streak Stats                                                                                                                                    | 📈 My GitHub Stats                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=jp-coffee&count_private=true&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-coffee&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/jp-coffee) |
 
-<!-- MY GITHUB STATS -->
-
-## 📈 My GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-coffee&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/jp-coffee)
-
-<!-- MY GITHUB STATS -->
+<!-- STREAK STATS-->
 
 <br />
 
 <!-- MY FAVORITE TOOLS -->
+
 ## 🛠️ My Tools
 
 ### 👨‍💻 Programming and Markup Languages
@@ -83,6 +65,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white)
 
 ### 𝍌 CMS and CRMs
+
 ![Contentful](https://img.shields.io/badge/-Contentful-000000?logo=Contentful&logoColor=white)
 ![SilverStripe](https://img.shields.io/badge/-SilverStripe-000000?&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white)
@@ -100,6 +83,7 @@
 <br />
 
 <!-- TOOLS I'M LEARNING-->
+
 ## 🛠️ New Tools I'm learning in < 5 Years
 
 ![Remix](https://img.shields.io/badge/-Remix-FF4D58?logo=Remix&logoColor=white)
@@ -130,6 +114,16 @@
 ![Threejs](https://img.shields.io/badge/-Threejs-000000?logo=Three.js&logoColor=white)
 
 <!-- TOOLS I'M LEARNING-->
+
+<br />
+
+<!-- SPOTIFY -->
+
+## 🎧 Currently Listening To
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404)
+
+<!-- SPOTIFY -->
 
 <br />
 
