@@ -26,6 +26,17 @@
 
 <br />
 
+<!-- MY OPEN SOURCE -->
+
+## 📦 My Open Source Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jp-coffee&repo=scaffolding.coffee&theme=radical&hide_border=true)](https://github.com/jp-coffee/scaffolding.coffee)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=windup-app&repo=WindUp-CLI&theme=radical&hide_border=true)](https://github.com/windup-app/WindUp-CLI)
+
+<!-- MY OPEN SOURCE -->
+
+<br />
+
 <!-- MY FAVORITE TOOLS -->
 
 ## 🛠️ My Tools
@@ -124,13 +135,3 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404)
 
 <!-- SPOTIFY -->
-
-<br />
-
-<!-- MY OPEN SOURCE -->
-
-## 📦 My Open Source Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=windup-app&repo=WindUp-CLI&theme=radical&hide_border=true)](https://github.com/windup-app/WindUp-CLI)
-
-<!-- MY OPEN SOURCE -->
