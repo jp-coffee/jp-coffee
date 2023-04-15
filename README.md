@@ -7,8 +7,7 @@
 <br/>
 
 <p align="center">
-   Welcome to my GitHub Profile!
-   I am a front-end TypeScript developer from the UK.
+   Greetings and welcome! If this is my introduction to you, my name is James, and I am a TypeScript developer who specializes in React and Vue.js. With practical experience in Node.js backend development, I am dedicated to creating user-friendly web applications using the latest modern practices. Join me as we embark on a journey to explore the endless possibilities of web development.
    <br/>
    <a href="https://jp.coffee" target="_blank">Visit My Website</a>
 </p>
