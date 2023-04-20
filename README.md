@@ -22,8 +22,9 @@ Meet James, a highly skilled TypeScript developer who specialises in frontend we
 ## 📦 My Open Source Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jp-coffee&repo=scaffolding.coffee&theme=radical&hide_border=true)](https://github.com/jp-coffee/scaffolding.coffee)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jp-coffee&repo=documentation.coffee&theme=radical&hide_border=true)](https://github.com/jp-coffee/documentation.coffee)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=windup-app&repo=WindUp-CLI&theme=radical&hide_border=true)](https://github.com/windup-app/WindUp-CLI)
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jp-coffee&repo=documentation.coffee&theme=radical&hide_border=true)](https://github.com/jp-coffee/documentation.coffee) -->
 
 <br />
 
