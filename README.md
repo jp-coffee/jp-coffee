@@ -1,16 +1,21 @@
 <p align="center">
-   <img height="200" src="./assets/jp.coffee.svg" alt="Scaffolding.Coffee logo">
+   <img src="https://cdn-jp-coffee.vercel.app/images/1000-500-banner.png" alt="Scaffolding.Coffee logo">
+   <!-- <img src="https://cdn.jp.coffee/images/1000-500-banner.png" alt="Scaffolding.Coffee logo"> -->
 </p>
 
-## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">
+   Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-Meet James, a highly skilled TypeScript developer who specialises in frontend web development using modern frameworks, with a preference for React and Vue.js.
+<p align="center">
+   Meet James, a highly skilled TypeScript developer who specialises in frontend web development using modern frameworks, with a preference for React and Vue.js.
+   <br/>
+   <a href="https://jp.coffee" target="_blank">View my portfolio</a>
+   <br/>
+   <br/>
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404" alt="Spotify now playing">
+</p>
 
-[View my portfolio](https://jp.coffee)
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404)
-
-<br />
 <br />
 
 | 🔥 Streak Stats                                                                                                                                    | 📈 My GitHub Stats                                                                                                                                                               |
