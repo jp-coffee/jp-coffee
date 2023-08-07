@@ -21,9 +21,9 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=320&hide_total_contributions=true&hide_longest_streak=true&hide_current_streak=false&count_private=true" alt="Current GitHub streak">
-   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=320&hide_total_contributions=false&hide_longest_streak=true&hide_current_streak=true&count_private=true" alt="Total GitHub contributions">
-   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=320&hide_total_contributions=true&hide_longest_streak=false&hide_current_streak=true&count_private=true" alt="Longest GitHub streak">
+   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=270&hide_total_contributions=true&hide_longest_streak=true&hide_current_streak=false&count_private=true" alt="Current GitHub streak">
+   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=270&hide_total_contributions=false&hide_longest_streak=true&hide_current_streak=true&count_private=true" alt="Total GitHub contributions">
+   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=270&hide_total_contributions=true&hide_longest_streak=false&hide_current_streak=true&count_private=true" alt="Longest GitHub streak">
 </p>
 
 <br />
@@ -32,10 +32,10 @@
 
 <p align="center">
    <a href="https://github.com/404-coffee/Scaffolding.Coffee">
-      <img src="https://cdn.jp.coffee/images/repos/Scaffolding-Coffee.png" alt="Scaffolding.Coffee" width="480">
+      <img src="https://cdn.jp.coffee/images/repos/Scaffolding-Coffee.png" alt="Scaffolding.Coffee" width="410">
    </a>
    <a href="https://github.com/windup-app/WindUp-CLI-DEPRECATED-">
-      <img src="https://cdn.jp.coffee/images/repos/WindUp-CLI.png" alt="Scaffolding.Coffee" width="480">
+      <img src="https://cdn.jp.coffee/images/repos/WindUp-CLI.png" alt="Scaffolding.Coffee" width="410">
    </a>
 </p>
 
