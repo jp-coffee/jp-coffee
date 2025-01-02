@@ -4,8 +4,8 @@
       <img src="./assets/jp-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97">
    </picture>
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/times-dark.svg" height="120" width="34">
-      <img src="./assets/times-light.svg" alt="X Icon" height="120" width="34">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/times-dark.svg" height="120">
+      <img src="./assets/times-light.svg" alt="X Icon" height="120">
    </picture>
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/200-coffee-branding-dark.svg" height="120" width="97">
