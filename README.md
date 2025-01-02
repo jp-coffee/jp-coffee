@@ -1,15 +1,15 @@
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/jp-coffee-branding-dark.svg" height="120" width="97" style="object-fit: contain">
-      <img src="./assets/jp-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97" style="object-fit: contain">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/jp-coffee-branding-dark.svg" height="120" width="97">
+      <img src="./assets/jp-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97">
    </picture>
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/x.png" height="120" width="20" style="object-fit: contain">
-      <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X Icon" height="120" width="20" style="object-fit: contain; margin: 0 20px">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/times-dark.svg" height="120" width="20">
+      <img src="./assets/times-light.svg" alt="X Icon" height="120" width="20" style="margin: 0 20px">
    </picture>
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/200-coffee-branding-dark.svg" height="120" width="97" style="object-fit: contain">
-      <img src="./assets/200-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97" style="object-fit: contain">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/200-coffee-branding-dark.svg" height="120" width="97">
+      <img src="./assets/200-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97">
    </picture>
 </p>
 
@@ -25,7 +25,7 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
 
 ### Some Projects I've Worked On 🚀
 
-<p align="center">
+<p>
    <a
       href="https://jp.coffee"
       target="_blank"
