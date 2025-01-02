@@ -1,14 +1,14 @@
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/jp-coffee-branding-dark.svg" height="120" width="97">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/jp-coffee-branding-dark.svg" height="120" width="97" style="object-fit: contain">
       <img src="./assets/jp-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97" style="object-fit: contain">
    </picture>
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/x.png" height="120" width="20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/x.png" height="120" width="20" style="object-fit: contain">
       <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X Icon" height="120" width="20" style="object-fit: contain; margin: 0 20px">
    </picture>
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/200-coffee-branding-dark.svg" height="120" width="97">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/200-coffee-branding-dark.svg" height="120" width="97" style="object-fit: contain">
       <img src="./assets/200-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97" style="object-fit: contain">
    </picture>
 </p>
