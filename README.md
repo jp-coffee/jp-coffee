@@ -190,7 +190,7 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
       <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
    <a
-      href="https://linkedin.com/in/jpcoffee"
+      href="https://www.linkedin.com/in/jp-coffee/"
       target="_blank"
       rel="noopener noreferrer"
       aria-expanded="false"
@@ -201,7 +201,7 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
    </a>
    <a
-      href="https://daily.dev/jpcoffee"
+      href="https://app.daily.dev/jpcoffee"
       target="_blank"
       rel="noopener noreferrer"
       aria-expanded="false"
