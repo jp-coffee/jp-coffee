@@ -4,8 +4,8 @@
       <img src="./assets/jp-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97">
    </picture>
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/times-dark.svg" height="120" width="20">
-      <img src="./assets/times-light.svg" alt="X Icon" height="120" width="20" style="margin: 0 20px">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/times-dark.svg" height="120" width="34">
+      <img src="./assets/times-light.svg" alt="X Icon" height="120" width="34">
    </picture>
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/200-coffee-branding-dark.svg" height="120" width="97">
@@ -51,7 +51,7 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
   >
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/hp-ar-library-dark.svg" width="32%">
-         <img src="./assets/projects/hp-ar-library-light.svg" alt="HP AR Library Project Card" width="32%" style="margin-left: 14px">
+         <img src="./assets/projects/hp-ar-library-light.svg" alt="HP AR Library Project Card" width="32%">
       </picture>
    </a>
    <a
@@ -65,7 +65,7 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
   >
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ultimaker-virtual-event-hub-dark.svg" width="32%">
-         <img src="./assets/projects/ultimaker-virtual-event-hub-light.svg" alt="Ultimaker Virtual Event Hub Project Card" width="32%" style="margin-left: 14px">
+         <img src="./assets/projects/ultimaker-virtual-event-hub-light.svg" alt="Ultimaker Virtual Event Hub Project Card" width="32%">
       </picture>
    </a>
 </p>
@@ -106,7 +106,7 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
             srcset="./assets/packages/ui-coffee-dark.svg"
             width="32%"
          >
-         <img src="./assets/packages/ui-coffee-light.svg" alt="UI Coffee Package Card" width="32%" style="margin-left: 14px">
+         <img src="./assets/packages/ui-coffee-light.svg" alt="UI Coffee Package Card" width="32%">
       </picture>
    </a>
    <picture>
@@ -115,7 +115,7 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
          srcset="./assets/packages/coming-soon-dark.svg"
          width="32%"
       >
-      <img src="./assets/packages/coming-soon-light.svg" alt="Coming Soon Package Card" width="32%" style="margin-left: 14px">
+      <img src="./assets/packages/coming-soon-light.svg" alt="Coming Soon Package Card" width="32%">
    </picture>  
 </p>
 
