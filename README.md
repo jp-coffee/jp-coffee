@@ -26,9 +26,22 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
     style="text-decoration: none"
   >
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/work-history.svg" width="100%">
-      <source media="(min-width: 601px)" srcset="./assets/work-history.svg" width="66%">
-      <img src="./assets/work-history.svg" alt="JP.Coffee Logo" width="66%">
+      <source
+         media="(max-width: 600px) and (prefers-color-scheme: dark)"
+         srcset="./assets/work-history-dark.svg"
+         width="100%"
+      >
+      <source
+         media="(min-width: 601px) and (prefers-color-scheme: dark)"
+         srcset="./assets/work-history-dark.svg"
+         width="66%"
+      >
+      <source
+         media="(max-width: 600px) and (prefers-color-scheme: light)"
+         srcset="./assets/work-history-light.svg"
+         width="100%"
+      >
+      <img src="./assets/work-history-light.svg" alt="JP.Coffee Logo" width="66%">
     </picture>
   </a>
   <a
@@ -41,9 +54,22 @@ Senior TypeScript Developer with 10 years of experience building scalable web ap
     style="text-decoration: none"
   >
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/skills.svg" width="100%">
-      <source media="(min-width: 601px)" srcset="./assets/skills.svg" width="32%">
-      <img src="./assets/skills.svg" alt="JP.Coffee Logo" width="32%" style="margin-left: 14px">
+      <source
+         media="(max-width: 600px) and (prefers-color-scheme: dark)"
+         srcset="./assets/skills-dark.svg"
+         width="100%"
+      >
+      <source
+         media="(min-width: 601px) and (prefers-color-scheme: dark)"
+         srcset="./assets/skills-dark.svg"
+         width="32%"
+      >
+      <source
+         media="(max-width: 600px) and (prefers-color-scheme: light)"
+         srcset="./assets/skills-light.svg"
+         width="100%"
+      >
+      <img src="./assets/skills-light.svg" alt="JP.Coffee Logo" width="32%" style="margin-left: 14px">
     </picture>
   </a>
 </p>
