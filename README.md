@@ -1,102 +1,214 @@
 <p align="center">
-   <img src="https://cdn.jp.coffee/images/1000-500-banner.png" alt="Scaffolding.Coffee logo">
-   <!-- <img src="https://cdn.jp.coffee/images/1000-500-banner.png" alt="Scaffolding.Coffee logo"> -->
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/jp-coffee-branding-dark.svg" height="120" width="97">
+      <img src="./assets/jp-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97" style="object-fit: contain">
+   </picture>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/x.png" height="120" width="20">
+      <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X Icon" height="120" width="20" style="object-fit: contain; margin: 0 20px">
+   </picture>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/200-coffee-branding-dark.svg" height="120" width="97">
+      <img src="./assets/200-coffee-branding-light.svg" alt="JP.Coffee Logo" height="120" width="97" style="object-fit: contain">
+   </picture>
 </p>
 
-<h1 align="center">
-   Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<h3>
+   Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+Senior TypeScript Developer with 10 years of experience building scalable web applications. Skilled in React, Next.js, Node.js, Express.js, and HTMX, I specialize in creating high-performance front-end and back-end solutions. I’m passionate about open-source contributions and constantly improving my skills with the latest technologies and best practices. Let’s connect if you’re interested in collaborating on innovative projects or exploring new opportunities in web development.
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404" alt="Spotify now playing">
+
+---
+
+### Some Projects I've Worked On 🚀
 
 <p align="center">
-   Meet James, a highly skilled TypeScript developer who specialises in frontend web development using modern frameworks, with a preference for React and Vue.js.
-   <br/>
-   <a href="https://jp.coffee" target="_blank" rel="noopener noreferrer">View my portfolio</a>
-   <br/>
-   <br/>
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31iisadcqke5h2hlg5ptghquj36e&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=0ab404" alt="Spotify now playing">
-</p>
-
-<br />
-
-<h3 align="center">My GitHub Stats</h3>
-
-<p align="center">
-   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=270&hide_total_contributions=true&hide_longest_streak=true&hide_current_streak=false&count_private=true" alt="Current GitHub streak">
-   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=270&hide_total_contributions=false&hide_longest_streak=true&hide_current_streak=true&count_private=true" alt="Total GitHub contributions">
-   <img src="https://streak-stats.demolab.com?user=jp-coffee&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=270&hide_total_contributions=true&hide_longest_streak=false&hide_current_streak=true&count_private=true" alt="Longest GitHub streak">
-</p>
-
-<br />
-
-<h3 align="center">My Open Source Projects</h3>
-
-<p align="center">
-   <a href="https://github.com/404-coffee/Scaffolding.Coffee">
-      <img src="https://cdn.jp.coffee/images/repos/Scaffolding-Coffee.png" alt="Scaffolding.Coffee" width="410">
+   <a
+      href="https://jp.coffee"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-expanded="false"
+      aria-label="Link to JP.Coffee"
+      title="JP.Coffee"
+      style="text-decoration: none"
+  >
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/hive-by-ups-dark.svg" width="32%">
+         <img src="./assets/projects/hive-by-ups-light.svg" alt="Hive by UPS Project Card" width="32%">
+      </picture>
    </a>
-   <a href="https://github.com/windup-app/WindUp-CLI-DEPRECATED-">
-      <img src="https://cdn.jp.coffee/images/repos/WindUp-CLI.png" alt="Scaffolding.Coffee" width="410">
+   <a
+    href="https://jp.coffee"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-expanded="false"
+    aria-label="Link to JP.Coffee"
+    title="JP.Coffee"
+    style="text-decoration: none"
+  >
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/hp-ar-library-dark.svg" width="32%">
+         <img src="./assets/projects/hp-ar-library-light.svg" alt="HP AR Library Project Card" width="32%" style="margin-left: 14px">
+      </picture>
+   </a>
+   <a
+    href="https://jp.coffee"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-expanded="false"
+    aria-label="Link to JP.Coffee"
+    title="JP.Coffee"
+    style="text-decoration: none"
+  >
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ultimaker-virtual-event-hub-dark.svg" width="32%">
+         <img src="./assets/projects/ultimaker-virtual-event-hub-light.svg" alt="Ultimaker Virtual Event Hub Project Card" width="32%" style="margin-left: 14px">
+      </picture>
    </a>
 </p>
 
-<br />
+### My Open Source Packages 🌟
 
-<h3 align="center">My Go-To Tools, Languages, Frameworks & Libraries</h3>
-
-<p align="center">
-   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" alt="TypeScript">
-   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" alt="React">
-   <img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white" alt="Next.js">
-   <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white" alt="Sass">
-   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS">
-   <img src="https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white" alt="ESLint">
-   <img src="https://img.shields.io/badge/-Prettier-F7B93E?logo=Prettier&logoColor=white" alt="Prettier">
-   <img src="https://img.shields.io/badge/-Vite-4FC08D?logo=Vite&logoColor=white" alt="Vite">
-   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js">
-   <img src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white" alt="Express.js">
-   <br />
-   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white" alt="MongoDB">
-   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white" alt="Postman">
-   <img src="https://img.shields.io/badge/-Vitest-4FC08D?logo=Vitest&logoColor=white" alt="Vitest">
-   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" alt="Git">
-   <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white" alt="GitHub">
-   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white" alt="GitHub Actions">
-   <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white" alt="Vercel">
-   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode">
-   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma">
-   <!--  -->
-   <!-- <br /> -->
+<p>
+  <a
+    href="https://github.com/200-coffee/scaffold.coffee"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-expanded="false"
+    aria-label="Link to JP.Coffee"
+    title="JP.Coffee"
+    style="text-decoration: none"
+  >
+    <picture>
+      <source
+         media="(prefers-color-scheme: dark)"
+         srcset="./assets/packages/scaffold-coffee-dark.svg"
+         width="32%"
+      >
+      <img src="./assets/packages/scaffold-coffee-light.svg" alt="Scaffold Coffee Package Card" width="32%">
+    </picture>
+  </a>
+  <a
+    href="https://github.com/200-coffee/ui.coffee"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-expanded="false"
+    aria-label="Link to JP.Coffee"
+    title="JP.Coffee"
+    style="text-decoration: none"
+   >
+      <picture>
+         <source
+            media="(prefers-color-scheme: dark)"
+            srcset="./assets/packages/ui-coffee-dark.svg"
+            width="32%"
+         >
+         <img src="./assets/packages/ui-coffee-light.svg" alt="UI Coffee Package Card" width="32%" style="margin-left: 14px">
+      </picture>
+   </a>
+   <picture>
+      <source
+         media="(prefers-color-scheme: dark)"
+         srcset="./assets/packages/coming-soon-dark.svg"
+         width="32%"
+      >
+      <img src="./assets/packages/coming-soon-light.svg" alt="Coming Soon Package Card" width="32%" style="margin-left: 14px">
+   </picture>  
 </p>
 
-<br />
+---
 
-<h3 align="center">Additional Tools, Languages, Frameworks & Libraries</h3>
+### My Skills 🛠️
 
 <p align="center">
-   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" alt="JavaScript">
-   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white" alt="Vue.js">
-   <img src="https://img.shields.io/badge/-Nuxt.js-70DC82?logo=Nuxt.js&logoColor=black" alt="Nuxt.js">
-   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
-   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
-   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
-   <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=GitLab&logoColor=white" alt="GitLab">
-   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white" alt="Docker">
-   <img src="https://img.shields.io/badge/-Jest-C21325?logo=Jest&logoColor=white" alt="Jest">
-   <img src="https://img.shields.io/badge/-TurboPack-4FC08D?logo=Vercel&logoColor=white" alt="TurboPack">
-   <br />
-   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=black" alt="Webpack">
-   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" alt="MySQL">
-   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white" alt="Bootstrap">
-   <img src="https://img.shields.io/badge/-Bitbucket-0052CC?logo=Bitbucket&logoColor=white" alt="Bitbucket">
-   <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white" alt="Netlify">
-   <img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white" alt="Heroku">
-   <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?logo=DigitalOcean&logoColor=white" alt="DigitalOcean">
-   <img src="https://img.shields.io/badge/-Plesk-FFC000?logo=Plesk&logoColor=black" alt="Plesk">
-   <img src="https://img.shields.io/badge/-Contentful-000000?logo=Contentful&logoColor=white" alt="Contentful">
-   <img src="https://img.shields.io/badge/-SilverStripe-000000?&logoColor=white" alt="SilverStripe">
-   <br />
-   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white" alt="WordPress">
-   <img src="https://img.shields.io/badge/-Adobe-FF0000?logo=Adobe&logoColor=white" alt="Adobe">
-   <img src="https://img.shields.io/badge/-CodePen-000000?logo=CodePen&logoColor=white" alt="CodePen">
-   <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=Shopify&logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+   <img src="https://img.shields.io/badge/HTMX-0C4B33?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX">
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+   <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+   <img src="https://img.shields.io/badge/Turbopack-0096FF?style=for-the-badge&logo=turbopack&logoColor=white" alt="Turbopack">
+   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
+   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
+   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
+
+### Work History 📚
+
+<p>
+  <a
+    href="https://jp.coffee"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-expanded="false"
+    aria-label="Link to JP.Coffee"
+    title="JP.Coffee"
+    style="text-decoration: none"
+  >
+    <picture>
+      <source
+         media="(prefers-color-scheme: dark)"
+         srcset="./assets/work-history-dark.svg"
+         width="100%"
+      >
+      <img src="./assets/work-history-light.svg" alt="JP.Coffee Work History in GitHub Style" width="100%">
+    </picture>
+  </a>
+</p>
+
+### Let's Connect 🤝
+
+<p>
+  <a
+    href="https://jp.coffee"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-expanded="false"
+    aria-label="Link to JP.Coffee"
+    title="JP.Coffee"
+    style="text-decoration: none"
+  >
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+   <a
+      href="https://linkedin.com/in/jpcoffee"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-expanded="false"
+      aria-label="Link to LinkedIn"
+      title="LinkedIn"
+      style="text-decoration: none"
+   >
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
+   <a
+      href="https://daily.dev/jpcoffee"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-expanded="false"
+      aria-label="Link to daily.dev"
+      title="daily.dev"
+      style="text-decoration: none"
+   >
+      <img src="https://img.shields.io/badge/daily.dev-100000?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev">
+   </a>
+</a>
