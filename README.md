@@ -35,6 +35,13 @@ I occasionally write about dev workflows, tooling, and UI design at [jp.coffee](
 </a>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 6px">
+   <a href="https://www.npmjs.com/package/create-ls" style="margin-top: 6px">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/dm/create-ls?style=flat&logo=npm&label=downloads&labelColor=%23E3EEEE&color=%23E3EEEE&logoColor=25292C">
+         <img src="https://img.shields.io/npm/dm/create-ls?style=flat&logo=npm&label=downloads&labelColor=%2325292C&color=%2325292C&logoColor=E3EEEE" alt="npm monthly downloads">
+      </picture>
+   </a>
+   <span style="opacity: 0.25">|</span>
    <a href="https://github.com/jp-coffee/create-ls" style="margin-top: 6px">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/jp-coffee/create-ls?style=flat&logo=github&labelColor=%23E3EEEE&color=%23E3EEEE&logoColor=25292C">
@@ -67,6 +74,13 @@ I occasionally write about dev workflows, tooling, and UI design at [jp.coffee](
 </a>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 6px">
+   <a href="https://www.npmjs.com/package/hook-conditional" style="margin-top: 6px">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/dm/hook-conditional?style=flat&logo=npm&label=downloads&labelColor=%23E3EEEE&color=%23E3EEEE&logoColor=25292C">
+         <img src="https://img.shields.io/npm/dm/hook-conditional?style=flat&logo=npm&label=downloads&labelColor=%2325292C&color=%2325292C&logoColor=E3EEEE" alt="npm monthly downloads">
+      </picture>
+   </a>
+   <span style="opacity: 0.25">|</span>
    <a href="https://github.com/jp-coffee/hook-conditional" style="margin-top: 6px">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/jp-coffee/hook-conditional?style=flat&logo=github&labelColor=%23E3EEEE&color=%23E3EEEE&logoColor=25292C">
@@ -99,6 +113,13 @@ I occasionally write about dev workflows, tooling, and UI design at [jp.coffee](
 </a>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 6px">
+   <a href="https://www.npmjs.com/package/create-cookie" style="margin-top: 6px">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/dm/create-cookie?style=flat&logo=npm&label=downloads&labelColor=%23E3EEEE&color=%23E3EEEE&logoColor=25292C">
+         <img src="https://img.shields.io/npm/dm/create-cookie?style=flat&logo=npm&label=downloads&labelColor=%2325292C&color=%2325292C&logoColor=E3EEEE" alt="npm monthly downloads">
+      </picture>
+   </a>
+   <span style="opacity: 0.25">|</span>
    <a href="https://github.com/jp-coffee/create-cookie" style="margin-top: 6px">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/jp-coffee/create-cookie?style=flat&logo=github&labelColor=%23E3EEEE&color=%23E3EEEE&logoColor=25292C">
